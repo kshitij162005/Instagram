@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node spec/runTests.js",
-    "node": "npm run start"
+    "start": "npm run start"
   },
   "keywords": [],
   "author": "",
