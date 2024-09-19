@@ -60,3 +60,5 @@ describe('authenticateUser Middleware', () => {
         expect(response.body.user.id).toBe(user.id);
     });
 });
+
+
